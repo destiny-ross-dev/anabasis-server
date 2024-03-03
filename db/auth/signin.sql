@@ -1,5 +1,5 @@
 SELECT
-  1
+  *
 FROM
   users
 where
